@@ -11,3 +11,5 @@ Tentang Kami
 Tentang Alat Kami
 >SmartWalker adalah sebuah alat berjalan untuk mempermudah para disabilitas. SmartWalker menggabungkan fungsi dan teknologi untuk menghasilkan pilihan yang sempurna untuk para disabilitas.
 
+Website
+>[SmartWalker - Google Sites](https://sites.google.com/smp.kanisius.edu/smartwalker/) 
