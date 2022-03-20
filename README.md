@@ -14,5 +14,5 @@ Tentang Alat Kami
 Website
 >[SmartWalker - Google Sites](https://sites.google.com/smp.kanisius.edu/smartwalker/) 
 
-
------------- Pada halaman _GitHub_ kami ini, silahkan memilih _branch_ di kiri untuk melihat bermacam _source_ apa yang diinginkan ------------
+_________________________________________________________________________________________________________________________________________________________________
+(Pada halaman _GitHub_ kami ini, silahkan memilih _branch_ di bagian kiri atas untuk melihat bermacam sumber apa yang kami gunakan berdasarkan mata pelajaran masing-masig)
