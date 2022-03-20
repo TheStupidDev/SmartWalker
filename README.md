@@ -9,7 +9,7 @@ Tentang Kami
 > - 83-12	Galen Oswald Lynd
 
 Tentang Alat Kami
->SmartWalker adalah sebuah alat berjalan untuk mempermudah para disabilitas. SmartWalker menggabungkan fungsi pengetahuan IPA, MAT, dan TIK untuk membantu para orang diluar sana yang memiliki disabilitas sistem gerak dan penglihatan.
+>SmartWalker adalah sebuah alat pembantu berjalan untuk mempermudah para disabilitas. SmartWalker menggabungkan fungsi pengetahuan IPA, MAT, dan TIK untuk membantu para orang diluar sana yang memiliki disabilitas sistem gerak dan penglihatan.
 
 Website
 >[SmartWalker - Google Sites](https://sites.google.com/smp.kanisius.edu/smartwalker/) 
