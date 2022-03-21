@@ -1,0 +1,3 @@
+//Hubungan
+Memanfaatkan Fisika untuk mengatasi masalah Biologi (sistem penglihatan dan gerak), dengan memanfaatkan pesawat sederhana untuk 
+membuat model alat walker (pesawat sederhana) dan gelombang suara yang dihasilkan buzzer (Gelombang dan getaran), terdengar oleh sistem pendengaran manusia.
