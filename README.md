@@ -16,5 +16,6 @@ Website
 
 _________________________________________________________________________________________________________________________________________________________________
 Pada halaman _GitHub_ kami ini, silahkan memilih _branch_ di bagian kiri atas untuk melihat bermacam sumber apa yang kami gunakan berdasarkan mata pelajaran masing-masing. Atau dapat langsung memilih halaman lewat link yang telah disediakan:
-[- TIK](https://github.com/TheStupidDev/SmartWalker/tree/TIK) 
-[- IPA](https://github.com/TheStupidDev/SmartWalker/tree/IPA)
+
+\n[- TIK](https://github.com/TheStupidDev/SmartWalker/tree/TIK) 
+\n[- IPA](https://github.com/TheStupidDev/SmartWalker/tree/IPA)
