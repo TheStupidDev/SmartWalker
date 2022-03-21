@@ -15,4 +15,6 @@ Website
 >[SmartWalker - Google Sites](https://sites.google.com/smp.kanisius.edu/smartwalker/) 
 
 _________________________________________________________________________________________________________________________________________________________________
-(Pada halaman _GitHub_ kami ini, silahkan memilih _branch_ di bagian kiri atas untuk melihat bermacam sumber apa yang kami gunakan berdasarkan mata pelajaran masing-masing)
+Pada halaman _GitHub_ kami ini, silahkan memilih _branch_ di bagian kiri atas untuk melihat bermacam sumber apa yang kami gunakan berdasarkan mata pelajaran masing-masing. Atau dapat langsung memilih halaman:
+>-TIK
+>-IPA
