@@ -19,7 +19,7 @@ void loop()
 	jarak = (durasi/2) / 29.1; //dalam cm
     
   if (jarak <= 30) {
-    	tone(buzzer, 2500);
+    	tone(buzzer, 2500);//2500 Hz
   } else {
     	noTone(buzzer);
   }
