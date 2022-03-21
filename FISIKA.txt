@@ -1,0 +1,6 @@
+//Fisika
+Pesawat Sederhana:
+- Alat Walker Biasa
+
+Gelombang dan Getaran:
+- Frekuensi pada Buzzer Arduino sebesar 2500 Hz (Manusia bisa mendengar dari 20-20000 Hz)
