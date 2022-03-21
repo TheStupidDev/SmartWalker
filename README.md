@@ -1,5 +1,9 @@
 # SmartWalker
 
+![Gambar Smart Walker](https://github.com/TheStupidDev/SmartWalker/blob/lainnya/image_2022-03-21_173817.png)
+
+
+
 Tentang Kami
 > Kelompok 14 | Kelas 83
 > - 83-25	Rainer Evan Rusly
