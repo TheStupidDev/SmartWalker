@@ -19,6 +19,7 @@ Pada halaman _GitHub_ kami ini, silahkan memilih _branch_ di bagian kiri atas un
 
 - [TIK](https://github.com/TheStupidDev/SmartWalker/tree/TIK) <br />
 - [IPA](https://github.com/TheStupidDev/SmartWalker/tree/IPA) <br />
+- [lainnya](https://github.com/TheStupidDev/SmartWalker/tree/lainnya) <br />
 
 
 
