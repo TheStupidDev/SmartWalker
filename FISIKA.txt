@@ -1,6 +1,6 @@
 //Fisika
 Pesawat Sederhana:
-- Alat Walker menggunakan prinsip tuas
+- Alat Walker menggunakan prinsip tuas (dimana titik kuasa berada diatas, titik tumpu ditengah, dan beban dibawah)
 
 Gelombang dan Getaran:
 - Frekuensi pada Buzzer Arduino sebesar 2500 Hz (Manusia bisa mendengar dari 20-20000 Hz)
