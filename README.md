@@ -23,4 +23,4 @@ Pada halaman _GitHub_ kami ini, silahkan memilih _branch_ di bagian kiri atas un
 
 
 
-![Gambar Smart Walker](https://github.com/TheStupidDev/SmartWalker/blob/lainnya/image_2022-03-21_173817.png)
+![Gambar Smart Walker](https://github.com/TheStupidDev/SmartWalker/blob/lainnya/image_2022-03-22_200544.png)
